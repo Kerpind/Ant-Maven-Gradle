@@ -24,3 +24,7 @@
 #### 차이점
 1. https://www.charlezz.com/?p=45140
 2. https://developer.android.com/studio/build/migrate-to-kts?hl=ko
+
+에러 처리방법
+> Could not find json-lib-2.4.jar (net.sf.json-lib:json-lib:2.4)  
+> https://weejw.tistory.com/484
