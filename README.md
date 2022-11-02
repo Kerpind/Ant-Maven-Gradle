@@ -12,6 +12,7 @@
 ### 설치(Maven -> Gradle)
 1. 설치 및 환경변수 설정 - https://tychejin.tistory.com/386
 2. 변환 작업 진행 - https://tychejin.tistory.com/389
+3. dependencies 태그 관련 - https://kotlinworld.com/316#implementation%-C%--testImplementation%-C%--androidTestImplementation%-C%--debugImplementation%EC%-D%--%--%EC%B-%A-%EC%-D%B-%EB%-A%--%--%EB%AC%B-%EC%--%--%EC%-D%B-%EA%B-%--%-F
 
 ### DSL
 #### Groovy(그루비)
