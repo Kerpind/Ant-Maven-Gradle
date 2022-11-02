@@ -35,3 +35,4 @@
 
 
 > Configuration Injection???
+> Spring Data JPA 를 넣고서 만들면 에러
