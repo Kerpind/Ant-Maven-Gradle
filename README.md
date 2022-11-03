@@ -10,7 +10,7 @@
 2. 권남님 블로그 - http://egloos.zum.com/kwon37xi/v/4747016
 3. 속도비교 - https://www.holaxprogramming.com/2017/07/04/devops-gradle-is-faster-than-maven/
 4. Maven, Gradle 태그 - https://lsmman.tistory.com/58
-5. 
+5. 차이점 - https://velog.io/@alicesykim95/Maven%EA%B3%BC-Gradle%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90
 
 ### 설치(Maven -> Gradle)
 1. 설치 및 환경변수 설정 - https://tychejin.tistory.com/386
