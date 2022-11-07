@@ -2,6 +2,7 @@
 
 ## Maven
 1. pom.xml 구성 - https://coding-hyeok.tistory.com/47
+2. 의존 라이브러리 관리 - https://happyer16.tistory.com/111
 
 ## Gradle
 
