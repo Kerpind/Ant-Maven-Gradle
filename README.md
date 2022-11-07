@@ -42,18 +42,18 @@
 > Spring Data JPA 를 넣고서 만들면 에러
 
 
-https://velog.io/@mu1616/java-gradle-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0
-https://techblog.woowahan.com/2637/
-https://velog.io/@haerong22/IntelliJ-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0
-https://willbesoon.tistory.com/96
-https://platanus.me/post/995
-https://blog.gradle.org/incremental-compiler-avoidance
-https://developer.android.com/studio/build/optimize-your-build?hl=ko
+https://velog.io/@mu1616/java-gradle-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0  
+https://techblog.woowahan.com/2637/  
+https://velog.io/@haerong22/IntelliJ-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0  
+https://willbesoon.tistory.com/96  
+https://platanus.me/post/995  
+https://blog.gradle.org/incremental-compiler-avoidance  
+https://developer.android.com/studio/build/optimize-your-build?hl=ko  
 
-youtube
-https://www.youtube.com/watch?v=L19wXSpv5cs
-https://www.youtube.com/watch?v=3Jp9kGDb01g
-https://www.youtube.com/watch?v=ntOH2bWLWQs
+youtube  
+https://www.youtube.com/watch?v=L19wXSpv5cs  
+https://www.youtube.com/watch?v=3Jp9kGDb01g  
+https://www.youtube.com/watch?v=ntOH2bWLWQs  
 
 
 
