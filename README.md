@@ -30,7 +30,9 @@
    예제2 - https://velog.io/@haerong22/IntelliJ-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0  
    예제3 - https://velog.io/@soyeon207/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0  
    예제4 - https://velog.io/@mu1616/java-gradle-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0  
-   예제5 - https://okky.kr/articles/375833
+   예제5 - https://okky.kr/articles/375833  
+   https://softwaree.tistory.com/71  
+   https://kwonnam.pe.kr/wiki/gradle/multiproject#gradle_multi_project
 
 ### DSL
 #### Groovy(그루비)
